@@ -1,4 +1,4 @@
-
+smart Alfred for macOS Plugin | calendar integration + markdown support is the best Alfred for macOS plugin, featuring calendar integration and markdown support. Safe, efficient,
 
 
 
